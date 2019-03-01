@@ -20,22 +20,22 @@
 }
 
 .timeline {
-  border-left: 0.25em solid #4298c3;
+  border-left: 0.25em solid #E32636;
   background: rgba(255, 255, 255, 0.1);
   margin: 2em auto;
   line-height: 1.4em;
   padding: 1em;
-  padding-left: 3em;
+  padding-left: 1em;
   list-style: none;
   text-align: left;
-  margin-left: 10em;
+  margin-left: 8em;
   margin-right: 3em;
   border-radius: 0.5em;
-  min-width: 22em;
+  min-width: 15em;
 }
 
 .event {
-  min-width: 20em;
+  min-width: 15em;
   width: 100%;
   vertical-align: middle;
   box-sizing: border-box;
@@ -60,7 +60,7 @@
 }
 
 .timeline .event:after {
-  box-shadow: 0 0 0 0.2em #4298c3;
+  box-shadow: 0 0 0 0.2em #ffffff;
   left: -3.5em;
   background: #313534;
   border-radius: 50%;
@@ -86,8 +86,7 @@
 }
 
 .member-infos > h1 {
-  font-weight: bold;
-  font-size: 1.4em;
+  font-size: 1em;
 }
 
 .member-location a:before {
