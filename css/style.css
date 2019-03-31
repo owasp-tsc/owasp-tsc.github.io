@@ -190,6 +190,14 @@ caption {
   text-align: left;
   caption-side: bottom; }
 
+.mapp{
+  position:absolute;
+  left:28%;
+  bottom:80px;
+}
+
+
+
 th {
   text-align: inherit; }
 
